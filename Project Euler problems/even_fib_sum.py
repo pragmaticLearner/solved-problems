@@ -31,3 +31,7 @@ def even_fib_sum(n) -> int:
 
 
 print(even_fib_sum(6))
+
+# >>> 10
+#
+#
